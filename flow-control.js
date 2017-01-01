@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return "You are a teenager!";
   }
 }
-
+/*
 function teenager(age) {
   if (age >=13 && age<=19)
   return "You are a teenager!";
@@ -34,19 +34,19 @@ switch (age) {
       break;
       case 14:
       return "You are a teenager"
-    break;    
+    break;
     case 15:
       return "You are a teenager"
-     break;    
+     break;
      case 16:
      return "You are a teenager"
-      break;    
+      break;
       case 17:
    return "You are a teenager"
-      break;    
+      break;
       case 18:
       return "You are a teenager"
-      break;  
+      break;
       case 19:
       return "You are a teenager"
       break;
@@ -54,3 +54,4 @@ switch (age) {
       return "You have an age"
 }
 }
+/*
